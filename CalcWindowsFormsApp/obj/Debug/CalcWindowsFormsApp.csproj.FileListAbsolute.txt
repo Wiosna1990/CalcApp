@@ -1,0 +1,11 @@
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\bin\Debug\CalcWindowsFormsApp.exe.config
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\bin\Debug\CalcWindowsFormsApp.exe
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\bin\Debug\CalcWindowsFormsApp.pdb
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\obj\Debug\CalcWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\obj\Debug\CalcWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\obj\Debug\CalcWindowsFormsApp.Properties.Resources.resources
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\obj\Debug\CalcWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\obj\Debug\CalcWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\obj\Debug\CalcWindowsFormsApp.exe
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\obj\Debug\CalcWindowsFormsApp.pdb
+C:\Users\lujna\Desktop\OneDriveBackupFiles\Pulpit\STUDIA\CSharp\Calc\CalcWindowsFormsApp\obj\Debug\CalcWindowsFormsApp.Form1.resources
